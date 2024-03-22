@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Edutu\\source\\repos\\Astefanoai_Eduard_Gabriel-POO-2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edutu\\source\\repos\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Edutu\\source\\repos\\Astefanoai_Eduard_Gabriel-POO-2024\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -19,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Edutu\\source\\repos\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\Edutu\\source\\repos\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "..\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T12:47:20.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "README.txt",
               "DocumentMoniker": "C:\\Users\\Edutu\\source\\repos\\Astefanoai_Eduard_Gabriel-POO-2024\\README.txt",
               "RelativeDocumentMoniker": "README.txt",
@@ -26,8 +42,7 @@
               "RelativeToolTip": "README.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-22T12:10:28.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T12:10:28.778Z"
             }
           ]
         }
